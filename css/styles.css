@@ -1,0 +1,26 @@
+.bw{
+    height: 800px;
+    background-image: url("../img/unnamed.jpg");
+    background-color: rgb(50,50,50);
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color:white
+    font-size: 10rem;
+    line-height: 85%
+    text-transform: uppercase;
+}
+
+h5{
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: white
+}
+
+h1, h5 {
+    text-transform: uppercase;
+    color: white
+}

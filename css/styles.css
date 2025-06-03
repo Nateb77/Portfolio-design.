@@ -1,26 +1,53 @@
-.bw{
-    height: 800px;
-    background-image: url("../img/unnamed.jpg");
-    background-color: rgb(50,50,50);
-    background-position:top;
-    background-repeat: no-repeat;
-    background-size: cover;
+.bw {
+height: 800px;
+background-image: url("../img/unnamed.jpg");
+background-color: rgb(50, 50, 50);
+background-position: top;
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 h1 {
-    color:white
-    font-size: 10rem;
-    line-height: 85%
-    text-transform: uppercase;
+font-size: 10rem;
+line-height: 85%;
 }
 
-h5{
-    font-size: 2rem;
-    text-transform: uppercase;
-    color: white
+h2 {
+font-size: 4rem;
+}
+
+h3 {
+font-size: 6rem;
+text-transform: uppercase;
+color: whitesmoke;
+}
+
+h5 {
+font-size: 2rem;
 }
 
 h1, h5 {
-    text-transform: uppercase;
-    color: white
+text-transform: uppercase;
+color: white;
+}
+
+.image {
+height: 1000px;
+}
+
+.img-fluid {
+height: 100%;
+width: 100%;
+object-fit: cover;
+}
+
+.socials {
+width: 40px;
+height: 40px;
+margin-right: 40px;
+}
+
+.footer {
+background-color: black;
+color: #fff;
 }
